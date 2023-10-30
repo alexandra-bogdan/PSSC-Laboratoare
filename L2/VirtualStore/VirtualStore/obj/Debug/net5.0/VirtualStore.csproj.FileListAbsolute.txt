@@ -1,0 +1,5 @@
+C:\Users\Utilizator\Desktop\PSSC\VirtualStore\VirtualStore\obj\Debug\net5.0\VirtualStore.csproj.AssemblyReference.cache
+C:\Users\Utilizator\Desktop\PSSC\VirtualStore\VirtualStore\obj\Debug\net5.0\VirtualStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizator\Desktop\PSSC\VirtualStore\VirtualStore\obj\Debug\net5.0\VirtualStore.AssemblyInfoInputs.cache
+C:\Users\Utilizator\Desktop\PSSC\VirtualStore\VirtualStore\obj\Debug\net5.0\VirtualStore.AssemblyInfo.cs
+C:\Users\Utilizator\Desktop\PSSC\VirtualStore\VirtualStore\obj\Debug\net5.0\VirtualStore.csproj.CoreCompileInputs.cache
